@@ -1,0 +1,1 @@
+img3 = cv2.resize(img3, (385,300))

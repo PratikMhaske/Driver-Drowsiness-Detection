@@ -18,5 +18,7 @@ we determine whether the eyes are open or they are closed.</br></br>
 
 ![image](https://user-images.githubusercontent.com/98334696/205435823-1567b03a-d3b3-489d-a3ce-6d70e44da715.png)
 
+The project is also done on Google Colab also to know the project bankand normalization part of Dlib and Mediapipe 
+<a href="https://colab.research.google.com/drive/1rkYvWGGlHnwxIwHUzkXSPeiiQ1E2zqA4#scrollTo=7xF7-27NSBNT"> by clicking Here</a>
 
 
